@@ -1,0 +1,12 @@
+###
+PATCH http://localhost:5173/api/comments/4
+
+{
+  "text": "더글로리 그리 재밌진 않아요"
+}
+
+###
+GET http://localhost:5173/api/comments
+
+###
+DELETE http://localhost:5173/api/comments/4
