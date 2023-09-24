@@ -1,0 +1,22 @@
+{
+  "characters" : [
+    {
+      "id": 1,
+      "name": "민엉만",
+      "level" : 262,
+      "class" : "Soul Master"
+    },
+    {
+      "id": 2,
+      "name": "아잉눈지현잉",
+      "level" : 267,
+      "class" : "Adel"
+    },
+    {
+      "id": 3,
+      "name": "마탕럼",
+      "level" : 231,
+      "class" : "Aran"
+    }
+  ]
+}
